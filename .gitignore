@@ -41,3 +41,8 @@
 /src
 /mapfile
 /tools/python/__pycache__/
+/tmp
+/local-vod.m3u8
+/output-log.txt
+/output.mp4
+/.vscode/*
